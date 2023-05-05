@@ -66,3 +66,7 @@ section:hover {
   text-align: center;
 }
 }
+.rectangle-image {
+  width: 200px;
+  height: auto;
+  }
