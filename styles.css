@@ -31,7 +31,7 @@ h1, h2 {
 }
 
 .profile-picture {
-  width: 150px;
+  max-width: 150px; /* Modifier la taille souhaitée */
   height: auto;
   border-radius: 50%;
   margin: 20px auto;
@@ -62,11 +62,12 @@ section:hover {
   padding: 5px 10px;
   margin-right: 10px;
 }
+
 .enzo-delaforge {
   text-align: center;
 }
-}
+
 .rectangle-image {
   width: 200px;
   height: 200px;
-  }
+}
